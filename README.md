@@ -1,7 +1,16 @@
-<<<<<<< HEAD
-# organization_attendance
+# Absensi Organisasi
 
-A new Flutter project.
-=======
-# absensiorganisasi_Minpro2
->>>>>>> 10c2892086e981e1c8c43f74e6709b2584585605
+Aplikasi absensi organisasi menggunakan Flutter dan Supabase.
+
+## Fitur Utama:
+- **Autentikasi:** Register dan Login menggunakan Supabase Auth.
+- **CRUD Absensi:** Manajemen data kehadiran anggota (Nama, NIM, Divisi, Status, Kegiatan).
+- **Light/Dark Mode:** Dukungan tema terang dan gelap dengan preferensi yang tersimpan secara lokal.
+- **Supabase Integration:** Menggunakan Supabase sebagai backend database dan autentikasi.
+
+## Teknologi yang Digunakan:
+- Flutter
+- Supabase Flutter SDK
+- Provider (State Management)
+- Shared Preferences (Persistence)
+- Flutter Dotenv
