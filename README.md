@@ -25,13 +25,13 @@ Aplikasi ini memanfaatkan berbagai widget fundamental dan advanced dari Flutter:
 - **ListView & ListView.builder:** Digunakan untuk merender daftar absensi secara dinamis dan efisien.
 - **FutureBuilder:** Widget krusial untuk menangani state data asinkron saat mengambil data dari database Supabase.
 - **RefreshIndicator:** Memberikan kemampuan kepada pengguna untuk memperbarui list data dengan cara menarik layar ke bawah.
-- **Card:** Digunakan sebagai kontainer item absensi untuk memberikan efek bayangan dan sudut melengkung yang modern.
+- **Card:** Digunakan sebagai kontainer item absensi untuk memberikan efek bayangan dan sudut melengkung.
 - **CircleAvatar:** Menampilkan inisial nama anggota sebagai elemen visual di setiap baris absensi.
 - **CircularProgressIndicator:** Memberikan indikasi visual (loading) saat aplikasi sedang memproses data atau menunggu respon server.
 - **SnackBar:** Digunakan untuk menampilkan pesan informasi singkat di bagian bawah layar setelah sebuah aksi dilakukan.
 - **AlertDialog:** Menampilkan jendela konfirmasi sebelum pengguna melakukan penghapusan data untuk mencegah kesalahan yang tidak sengaja.
 
-## Screenshots
+## Tampilan Aplikasi Absen Organisasi
 Berikut adalah beberapa tampilan dari aplikasi **Absensi Organisasi**:
 
 ### 1. Form Login & Register
