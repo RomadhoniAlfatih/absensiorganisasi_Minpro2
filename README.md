@@ -49,11 +49,15 @@ Disini adalah bagian dimana fitur light/dark mode dapat digunakan, dapat ditemuk
 Bagian ini adalah CRUD dari Aplikasi Absensi Organisasi
 ![Create Data](assets/screenshots/Create%20Data.png)
 Untuk menambah data diri dan status kehadiran dari anggota.
+---
 ![Update Data](assets/screenshots/Update%20Data.png)
 Untuk mengubah isi data diri dan status kehadiran dari anggota.
+---
 ![Mengubah isi form](assets/screenshots/Mengubah%20isi%20form.png)
 Mengubah Isi dari status kehadiran
+---
 ![Hasil Update form](assets/screenshots/Hasil%20Update%20form.png)
+---
 ![Delete Data](assets/screenshots/Delete%20Data.png)
 Untuk menghapus data diri dan status kehadiran, terdapat warning pop-up yang bertujuan untuk meyakinkan user untuk mengambil keputusan.
 
