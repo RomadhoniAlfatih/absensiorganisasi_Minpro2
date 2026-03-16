@@ -49,5 +49,5 @@ Berikut adalah beberapa tampilan dari aplikasi **Absensi Organisasi**:
 ![Hasil Update form](assets/screenshots/Hasil%20Update%20form.png)
 ![Delete Data](assets/screenshots/Delete%20Data.png)
 
-### 4. Detail Kehadiran
+### 4. Detail Status Kehadiran
 ![Keterangan Kehadiran](assets/screenshots/Keterangan%20Kehadiran.png)
