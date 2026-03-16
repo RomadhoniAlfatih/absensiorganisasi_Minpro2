@@ -30,3 +30,7 @@ Aplikasi ini memanfaatkan berbagai widget fundamental dan advanced dari Flutter:
 - **CircularProgressIndicator** 
 - **SnackBar** 
 - **AlertDialog** 
+
+## Dashboard
+
+![Dashboard](assets/dashboard.png)
