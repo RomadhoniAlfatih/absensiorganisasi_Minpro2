@@ -42,11 +42,12 @@ Berikut adalah beberapa tampilan dari aplikasi **Absensi Organisasi**:
 ![Dashboard White](assets/screenshots/Dashboard%20White.png)
 ![Dashboard Dark](assets/screenshots/Dashboard%20Dark.png)
 
-### 3. Manajemen Data (Tambah & Ubah)
+### 3. Manajemen Data (Tambah, Ubah, & Hapus)
 ![Create Data](assets/screenshots/Create%20Data.png)
 ![Update Data](assets/screenshots/Update%20Data.png)
 ![Mengubah isi form](assets/screenshots/Mengubah%20isi%20form.png)
 ![Hasil Update form](assets/screenshots/Hasil%20Update%20form.png)
+![Delete Data](assets/screenshots/Delete%20Data.png)
 
 ### 4. Detail Kehadiran
 ![Keterangan Kehadiran](assets/screenshots/Keterangan%20Kehadiran.png)
