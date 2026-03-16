@@ -31,6 +31,6 @@ Aplikasi ini memanfaatkan berbagai widget fundamental dan advanced dari Flutter:
 - **SnackBar** 
 - **AlertDialog** 
 
-## Dashboard
+## Tampilan Aplikasi
 
-![Dashboard](assets/dashboard.png)
+
