@@ -33,6 +33,6 @@ Aplikasi ini memanfaatkan berbagai widget fundamental dan advanced dari Flutter:
 
 ## Tampilan Aplikasi
 
-<p align="center"> <img src="assets/screenshoot/Dashboard White.png" width="700"> </p>
+<p align="center"> <img src="assets/screenshoot/Screenshot 2026-03-16 003248.png" width="700"> </p>
 
 
