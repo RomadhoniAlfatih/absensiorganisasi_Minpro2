@@ -60,6 +60,7 @@ Mengubah Isi dari status kehadiran
 ---
 ![Delete Data](assets/screenshots/Delete%20Data.png)
 Untuk menghapus data diri dan status kehadiran, terdapat warning pop-up yang bertujuan untuk meyakinkan user untuk mengambil keputusan.
+---
 
 
 ### 4. Detail Status Kehadiran
