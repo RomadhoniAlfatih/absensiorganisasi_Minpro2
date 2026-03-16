@@ -37,17 +37,27 @@ Berikut adalah beberapa tampilan dari aplikasi **Absensi Organisasi**:
 ### 1. Form Login & Register
 ![Form Login](assets/screenshots/Form%20Login.png)
 ![Form Register](assets/screenshots/Form%20Register.png)
+Ini adalah Form login dan register yang dimana jika ingin masuk ke dashboard utama itu dipastikan akun bisa terverifikasi dengan melakukan register, dan jika sudah berhasil regis akun anda, anda akan dikembalikan ke form login yang dimana mengharuskan untuk mengisi ulang data akun (email & password) yang sudah di regis agar dapat tervalidasi bahwa anda sudah melakukan registrasi terhadap akun anda, dan jika sudah login anda berhasil masuk ke dalam dashboard utama absensi organisasi.
 
 ### 2. Dashboard (Light & Dark Mode)
 ![Dashboard White](assets/screenshots/Dashboard%20White.png)
 ![Dashboard Dark](assets/screenshots/Dashboard%20Dark.png)
+Disini adalah bagian dimana fitur light/dark mode dapat digunakan, dapat ditemukan menu toggle yang dapat mengubah tema dari dashboard, tepat disebelah toggle logout.
 
 ### 3. Manajemen Data (Tambah, Ubah, & Hapus)
+
+Bagian ini adalah CRUD dari Aplikasi Absensi Organisasi
 ![Create Data](assets/screenshots/Create%20Data.png)
+Untuk menambah data diri dan status kehadiran dari anggota.
 ![Update Data](assets/screenshots/Update%20Data.png)
+Untuk mengubah isi data diri dan status kehadiran dari anggota.
 ![Mengubah isi form](assets/screenshots/Mengubah%20isi%20form.png)
+Mengubah Isi dari status kehadiran
 ![Hasil Update form](assets/screenshots/Hasil%20Update%20form.png)
 ![Delete Data](assets/screenshots/Delete%20Data.png)
+Untuk menghapus data diri dan status kehadiran, terdapat warning pop-up yang bertujuan untuk meyakinkan user untuk mengambil keputusan.
+
 
 ### 4. Detail Status Kehadiran
 ![Keterangan Kehadiran](assets/screenshots/Keterangan%20Kehadiran.png)
+Ini adalah Isi dari menu status kehadiran: Hadir, Izin, Sakit, Alpa
