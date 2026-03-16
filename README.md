@@ -33,4 +33,6 @@ Aplikasi ini memanfaatkan berbagai widget fundamental dan advanced dari Flutter:
 
 ## Tampilan Aplikasi
 
+assets/screenshots/Screenshot 2026-03-16 003451.png
+
 
